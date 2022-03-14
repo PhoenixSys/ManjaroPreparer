@@ -4,10 +4,10 @@
 sudo pacman -Syu
 
 # Install aur package manager
-sudo pacman -S yay
+sudo pacman -S yay pamac
 
 # Base system applications
-sudo pacman -S pamac git screenfetch zsh gparted net-tools copyq htop appimagelauncher
+sudo pacman -S git screenfetch zsh gparted net-tools copyq htop appimagelauncher
 yay -S nerdfetch pantheon-terminal translate-shell http gitflow stacer
 
 # Programming language
@@ -71,7 +71,7 @@ sudo pacman -S libreoffice-fresh
 sudo pacman -S clementine vlc elisa simplescreenrecorder
 
 # Development IDE
-sudo pacman -S kde code
+sudo pacman -S kate code
 
 # Virtualization
 sudo pacman -S docker docker-compose
