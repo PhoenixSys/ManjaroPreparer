@@ -1,7 +1,7 @@
 # Manjaro Preparer
 
 # installer.sh
-install requirements software with pacman, yay and pamac pakage manager
+install requirement softwares with pacman, yay and pamac pakage manager
 
 ```
 # Package manager
