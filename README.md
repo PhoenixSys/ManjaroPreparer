@@ -97,6 +97,9 @@ install requirement softwares with pacman, yay and pamac pakage manager
 # Server tools:
   remmina
   wrk
+ 
+# REST Client:
+  insomnia
 
 # Warp VPN
   cloudflare-warp-bin
