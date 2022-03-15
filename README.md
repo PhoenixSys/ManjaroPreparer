@@ -101,3 +101,15 @@ install requirement softwares with pacman, yay and pamac pakage manager
 # Warp VPN
   cloudflare-warp-bin
 ```
+
+# ohmyzsh.sh
+install ohmyzsh [ zsh ] shell with linear theme and set plugins:
+
+```
+  git 
+  python 
+  colorize 
+  git-flow 
+  docker 
+  zsh-autosuggestions 
+```
