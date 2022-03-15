@@ -7,8 +7,8 @@ sudo pacman -Sqyu
 sudo pacman -Sq yay pamac
 
 # Base system applications
-sudo pacman -Sq git screenfetch zsh gparted net-tools copyq htop appimagelauncher
-yay -Sq nerdfetch pantheon-terminal translate-Sqhell http gitflow stacer
+sudo pacman -Sq git screenfetch zsh gparted net-tools copyq htop appimagelauncher 
+yay -Sq nerdfetch pantheon-terminal translate-Sqhell http gitflow stacer powerline-fonts-git 
 
 # Programming language
 

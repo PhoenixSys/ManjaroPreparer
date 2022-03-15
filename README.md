@@ -21,6 +21,7 @@ install requirement softwares with pacman, yay and pamac pakage manager
   translate-shell
   gitflow 
   stacer
+  powerline-fonts-git
 
 # Programming language
   ## python
