@@ -117,3 +117,8 @@ install ohmyzsh [ zsh ] shell with linear theme and set plugins:
   docker 
   zsh-autosuggestions 
 ```
+
+# konsole.sh
+Yazdan konsole profile with powerline fonts and atom one dark theme!
+
+**Note** : Set `Yazdan` profile after run `konsole.sh` ! 
