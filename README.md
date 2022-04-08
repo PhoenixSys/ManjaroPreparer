@@ -23,6 +23,9 @@ install requirement softwares with pacman, yay and pamac pakage manager
   stacer
   powerline-fonts-git
   latte-dock
+  
+# Icon set
+  papirus
 
 # Programming language
   ## python
