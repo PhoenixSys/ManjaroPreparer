@@ -10,6 +10,9 @@ sudo pacman -Sq yay pamac
 sudo pacman -Sq git screenfetch zsh gparted net-tools copyq htop appimagelauncher latte-dock
 yay -Sq nerdfetch pantheon-terminal translate-Sqhell http gitflow stacer powerline-fonts-git 
 
+# Icon set
+wget -qO- https://git.io/papirus-icon-theme-install | DESTDIR="$HOME/.local/share/icons" sh
+
 # Programming language
 
 ## python
