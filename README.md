@@ -125,3 +125,8 @@ install ohmyzsh [ zsh ] shell with linear theme and set plugins:
 Yazdan konsole profile with powerline fonts and atom one dark theme!
 
 **Note** : Set `Yazdan` profile after run `konsole.sh` ! 
+
+# latte-dock.sh
+after install latte dock, config your latte profile with some lunchers.
+
+**Run and Enjoy!**
