@@ -22,6 +22,7 @@ install requirement softwares with pacman, yay and pamac pakage manager
   gitflow 
   stacer
   powerline-fonts-git
+  latte-dock
 
 # Programming language
   ## python
