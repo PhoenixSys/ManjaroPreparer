@@ -77,6 +77,8 @@ sudo pacman -Sq kate code
 sudo pacman -Sq docker docker-compose
 sudo systemctl start docker
 sudo systemctl enable docker
+sudo pacman -Sq virtualbox linux515-virtualbox-host-modules
+sudo vboxreload
 
 # Server tools:
 sudo pacman -Sq remmina
