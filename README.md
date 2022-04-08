@@ -94,6 +94,7 @@ install requirement softwares with pacman, yay and pamac pakage manager
 # Virtualization
   docker 
   docker-compose
+  virtualbox
 
 # Server tools:
   remmina
