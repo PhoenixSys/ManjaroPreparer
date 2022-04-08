@@ -87,5 +87,6 @@ yay -Sq wrk
 # Api client
 yay -Sq insomnia
 
-# Warp VPN
+# VPN
 yay -Sq cloudflare-warp-bin
+yay -Sq windscribe-v2-bin
