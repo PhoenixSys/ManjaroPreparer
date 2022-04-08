@@ -105,6 +105,7 @@ install requirement softwares with pacman, yay and pamac pakage manager
 
 # Warp VPN
   cloudflare-warp-bin
+  windscribe v2 gui
 ```
 
 # ohmyzsh.sh
